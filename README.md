@@ -1,4 +1,39 @@
-### Hi there 👋
+# Olá, Meu nome é Eder William! 👋
+90s; Corinthiano e sofredor, Apaixonado pela Princesa Plus!
+
+E vou ser Dev/Cibersegurança.
+
+⚽🪁💍📱💻🔫🖱️🎧 📹⏱️🕉️
+
+## Sobre mim 🚀
+💼 Trabalho atualmente como Garçom e Divulgador Magalu.
+
+🧠 Estou aprendendo Cibersegurança!
+
+💬 Facilidade em se comunicar e empatia.
+
+🔎 Procuro ajudar com transparência.
+
+😄 Gosto de soltar pipa, jogos e passeios!
+
+🌱 Em transição de carreira...
+
+## Habilidades 🛠
+Técnico em Informática | Redes | Desenvolvedor
+
+Versionamento de Código com Git e GitHub | Readme.so
+
+CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java e Figma
+
+## Meus Principais Desafios de Projeto DIO
+
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
+
+## Links 🔗
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/ewd02s)
+[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewd02s/)
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewd02s/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/Ewd02s/)
 
 <!--
 **ewd02s/ewd02s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
