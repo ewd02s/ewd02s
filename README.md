@@ -6,9 +6,9 @@ Quero ser Dev/Cibersegurança.
 ⚽🪁💍📱💻🔫🖱️🎧 📹⏱️🕉️
 
 ## Sobre mim 🚀
-💼 Trabalho atualmente como Garçom e Parceiro Magalu.
+🛠 Sou Técnico em Informática, Suporte técnico, Redes, Desenvolvedor.
 
-🛠 Técnico em Informática, Suporte técnico, Redes, Desenvolvedor
+💼 Trabalho atualmente como Garçom e Parceiro Magalu.
 
 🧠 Estou aprendendo Cibersegurança!
 
