@@ -1,12 +1,14 @@
 # Olá, Meu nome é Eder William! 👋
 90s; Corinthiano e sofredor, Apaixonado pela Princesa Plus!
 
-E vou ser Dev/Cibersegurança.
+Quero ser Dev/Cibersegurança.
 
 ⚽🪁💍📱💻🔫🖱️🎧 📹⏱️🕉️
 
 ## Sobre mim 🚀
 💼 Trabalho atualmente como Garçom e Parceiro Magalu.
+
+🛠 Técnico em Informática, Suporte técnico, Redes, Desenvolvedor
 
 🧠 Estou aprendendo Cibersegurança!
 
@@ -18,31 +20,26 @@ E vou ser Dev/Cibersegurança.
 
 🌱 Em transição de carreira...
 
-## Sobre Habilidades 🛠
-Técnico em Informática | Suporte técnico | Redes | Desenvolvedor
+## Habilidades ⚡
+#### No Curso Santander | SANTANDER CIBERSEGURANÇA:  🔐 🛡 💻 🐧
 
-Versionamento de Código com Git e GitHub,
+- Princípios de Desenvolvimento Ágil e Colaborativo;
+- Desafios de Códigos;
+- Fundamentos de Cibersegurança;
+- Deep Web e Anonimato; 
+- Testes de Invasão e Buscas por Vulenaribilidades;
+- Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
 
-Contribuindo em um Projeto Open Source no GitHub.
-
-Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional;
-
-Verificando URL com JavaScript, Python, Kotlin, Java, C#.
-
-Fundamentos de Cibersegurança, Testes de Invasão e Busca Por Vulnerabilidades;
-
-Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
-
-### Tecnologias 👨🏾‍💻
+## Tecnologias 👨🏾‍💻
 - Git e GitHub, CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java, Figma, Readme.so e Linux.
 
-## Meus Principais Desafios de Projeto DIO
+## Meus Principais Desafios de Projeto DIO 🔗
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-phishing&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-phishing)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-ransomware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-ransomware)
 
-## Links 🔗
+## Follow-me 📲
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/ewd02s)
 [![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewd02s/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewd02s/)
