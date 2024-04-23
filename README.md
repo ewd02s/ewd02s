@@ -1,7 +1,9 @@
 # Olá, Meu nome é Eder William! 👋
-### 90s; Corinthiano e sofredor, Apaixonado pela Princesa Plus!
+### 90s; Corinthiano e sofredor, Apaixonado por Tech!
 
-### Quero ser Dev/Cibersegurança.
+### Namorando uma Princesa Plus!
+
+### Quero ser Dev/Cybersecurity.
 
 ⚽🪁💍📚🤝🎓💻📱🎮🔒🕉️
 
