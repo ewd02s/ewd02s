@@ -35,7 +35,7 @@
 [![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 
-## Tecnologias 👨🏾‍💻
+## Conhecimento em Linguagens de Programação 👨🏾‍💻
 - CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java, Figma.
 
 ## GitHub Stats
