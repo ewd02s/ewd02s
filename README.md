@@ -26,7 +26,7 @@
 - Testes de Invasão e Buscas por Vulenaribilidades;
 - Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
 
-## Habilidades ⚡
+## Habilidades: ⚡
 [![Segurança da informação](https://img.shields.io/badge/Seguran%C3%A7a%20da%20informa%C3%A7%C3%A3o-000?style=for-the-badge&logo=cybersecurity)]()
 [![Soft Skill](https://img.shields.io/badge/Soft%20Skill-000?style=for-the-badge&logo=SoftSkill)]()
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
@@ -35,8 +35,9 @@
 [![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 
-## Conhecimento em Linguagens de Programação 👨🏾‍💻
+## Conhecimento em Linguagens de Programação: 👨🏾‍💻
 - CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java, Figma.
+- Desafios de Códigos em Cibersegurança (JavaScript, Python, Kotlin, Java, C#);
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewd02s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -49,7 +50,7 @@
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-ransomware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-ransomware)
 
 ---
-## Conecte-se comigo 📲
+## Conecte-se comigo: 📲
 [![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)](https://twitter.com/ewd02s)
 [![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ewd02s/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ewd02s/)
