@@ -3,18 +3,18 @@
 
 ### Quero ser Dev/Cibersegurança.
 
-⚽🪁💍📱💻🔫🖱️🎧 📹⏱️🕉️
+⚽🪁💍📚🤝🎓💻📱🎮🔒🕉️
 
 ## Sobre mim 🚀
-🛠 Formação de Técnico em Informática e Cibersegurança!
+💼 No momento, atuo em serviços extraordinários.
 
-💼 No momento, sou Garçom e Parceiro Magalu.
+🎓 Formado Técnico em Informática e Cibersegurança.
 
-💬 Facilidade em se comunicar e empatia.
+💬 Gestão de serviços de atendimento ao cliente.
 
 😄 Gosto de soltar pipa, jogos e passeios!
 
-🌱 Em transição de carreira...
+🌱 Em transição de carreira para TI...
 
 ## No Bootcamp DIO | SANTANDER CIBERSEGURANÇA: 🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
