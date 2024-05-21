@@ -1,13 +1,8 @@
-# Olá, Meu nome é Eder William! 👋
-### 90s; Corinthiano e Sofredor 
-
-### Apaixonado por Games & Tech
-
+## [E]wd02s ⚽🪁💍📚🤝🎓💻📱🎮🔒👾💜🕉️
+### Olá, Meu nome é Eder William, um jovem de +30 anos,
+### Corinthiano e Sofredor, Desajustado nos Jogos,
 ### Namorando uma Princesa Plus!
-
-### Quero ser Dev/Cybersecurity.
-
-⚽🪁💍📚🤝🎓💻📱🎮🔒🕉️
+### Apaixonado por Tech.
 
 ## Sobre mim 🚀
 💼 No momento, atuo em serviços extraordinários.
@@ -18,7 +13,7 @@
 
 😄 Gosto de soltar pipa, jogos e passeios!
 
-🌱 Em transição de carreira para TI
+🌱 Em transição de carreira para TI.
 
 ## No Bootcamp DIO | SANTANDER CIBERSEGURANÇA: 🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
