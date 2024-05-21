@@ -1,5 +1,7 @@
 # Olá, Meu nome é Eder William! 👋
-### 90s; Corinthiano e Sofredor, Apaixonado por Tech!
+### 90s; Corinthiano e Sofredor 
+
+### Apaixonado por Games & Tech
 
 ### Namorando uma Princesa Plus!
 
