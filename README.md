@@ -16,7 +16,7 @@
 
 😄 Gosto de soltar pipa, jogos e passeios!
 
-🌱 Em transição de carreira para TI...
+🌱 Em transição de carreira para TI
 
 ## No Bootcamp DIO | SANTANDER CIBERSEGURANÇA: 🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
