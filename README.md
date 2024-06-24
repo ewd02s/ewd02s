@@ -4,7 +4,7 @@
 ### Namorando uma Princesa Plus!
 ### Apaixonado por Tech.
 
-## Sobre mim 🚀
+## Sobre mim 💬
 🎓Formado Técnico em Informática.
 
 💼 No momento, atuo como garçom.
