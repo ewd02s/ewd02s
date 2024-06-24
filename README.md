@@ -1,6 +1,5 @@
-# Olá, Meu nome é Eder William 👋
-
 ## Sobre mim 💬
+👋 Olá, Meu nome é Eder William, 
 
 😄 Um jovem de +30 anos,
 
