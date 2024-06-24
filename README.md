@@ -1,17 +1,25 @@
-## [E]wd02s ⚽🪁💍📚🤝🎓💻📱🎮🔒👾💜🕉️
-### Olá, Meu nome é Eder William, um jovem de +30 anos,
-### Corinthiano e Sofredor, Desajustado nos Jogos,
-### Namorando uma Princesa Plus!
-### Apaixonado por Tech.
+## Olá, Meu nome é Eder William 👋
+⚽🪁💍📚🤝🎓💻📱🎮🔒👾💜🕉️
 
 ## Sobre mim 💬
-🎓Formado Técnico em Informática.
+
+😄 Um jovem de +30 anos,
+
+🎓 Formado Técnico em Informática.
 
 💼 No momento, atuo como garçom.
 
-🌱 Em transição de carreira para TI.
+⚽ Corinthiano e Sofredor...
 
-😄 Gosto de soltar pipa, jogos e passeios!
+🪁 Gosto de soltar pipa e passeios!
+
+👨‍💻 Apaixonado por Tech
+
+💍 Namorando uma Princesa Plus!
+
+🎮 Desajustado nos Games
+
+🌱 Em transição de carreira para TI.
 
 ## No Bootcamp DIO | SANTANDER CIBERSEGURANÇA: 🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
@@ -44,12 +52,21 @@
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-phishing&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-phishing)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-ransomware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-ransomware)
 
----
 ## Conecte-se comigo: 📲
-[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)](https://twitter.com/ewd02s)
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/93952508?v=4"
+    />
+    <p> Eder William (Ewd02s) <br>
+  
+[![DIO Profile](https://img.shields.io/badge/Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/Ewd02s/)
 [![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/ewd02s/)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ewd02s/)
-[![Perfil DIO](https://img.shields.io/badge/Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/Ewd02s/)
+[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)](https://twitter.com/ewd02s)
 
 <!--
 **ewd02s/ewd02s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
