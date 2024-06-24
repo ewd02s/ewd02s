@@ -16,7 +16,7 @@
 
 💍 Namorando uma Princesa Plus!
 
-🎮 Desajustado nos Games.
+🖱 Desajustado nos Games.
 
 🌱 Em transição de carreira para TI.
 
