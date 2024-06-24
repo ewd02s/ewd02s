@@ -1,5 +1,4 @@
-## Olá, Meu nome é Eder William 👋
-⚽🪁💍📚🤝🎓💻📱🎮🔒👾💜🕉️
+# Olá, Meu nome é Eder William 👋
 
 ## Sobre mim 💬
 
