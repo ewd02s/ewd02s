@@ -5,17 +5,17 @@
 
 ⚽ Corinthiano e Sofredor...
 
-🎓 Formado Técnico em Informática.
+💍 Namorando uma Princesa Plus!
 
 💼 No momento, atuo como garçom.
 
-🪁 Gosto de soltar pipa e passeios!
+🎓 Formado Técnico em Informática.
 
 👨‍💻 Apaixonado por Tech,
 
-💍 Namorando uma Princesa Plus!
-
 🖱 Desajustado nos Games.
+
+🪁 Gosto de soltar pipa e passeios!
 
 🌱 Em transição de carreira para TI.
 
