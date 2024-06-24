@@ -4,19 +4,19 @@
 
 😄 Um jovem de +30 anos,
 
+⚽ Corinthiano e Sofredor...
+
 🎓 Formado Técnico em Informática.
 
 💼 No momento, atuo como garçom.
 
-⚽ Corinthiano e Sofredor...
-
 🪁 Gosto de soltar pipa e passeios!
 
-👨‍💻 Apaixonado por Tech
+👨‍💻 Apaixonado por Tech,
 
 💍 Namorando uma Princesa Plus!
 
-🎮 Desajustado nos Games
+🎮 Desajustado nos Games.
 
 🌱 Em transição de carreira para TI.
 
