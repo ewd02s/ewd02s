@@ -33,9 +33,9 @@
 [![Soft Skill](https://img.shields.io/badge/Soft%20Skill-000?style=for-the-badge&logo=SoftSkill)]()
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
-[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/)
 [![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
+[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/)
 
 ## Conhecimento em Linguagens de Programação: 👨🏾‍💻
 - CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java, Figma;
