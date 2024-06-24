@@ -20,13 +20,9 @@
 
 🌱 Em transição de carreira para TI.
 
-## No Bootcamp DIO | SANTANDER CIBERSEGURANÇA: 🔒🛡🐧
-- Princípios de Desenvolvimento Ágil e Colaborativo;
-- Desafios de Códigos;
-- Fundamentos de Cibersegurança;
-- Deep Web e Anonimato; 
-- Testes de Invasão e Buscas por Vulenaribilidades;
-- Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
+## Conhecimento em Linguagens de Programação: 👨🏾‍💻
+- CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java, Figma;
+- Desafios de Códigos em Cibersegurança (JavaScript, Python, Kotlin, Java, C#).
 
 ## Habilidades: ⚡
 [![Segurança da informação](https://img.shields.io/badge/Seguran%C3%A7a%20da%20informa%C3%A7%C3%A3o-000?style=for-the-badge&logo=cybersecurity)]()
@@ -37,10 +33,6 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/)
 
-## Conhecimento em Linguagens de Programação: 👨🏾‍💻
-- CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java, Figma;
-- Desafios de Códigos em Cibersegurança (JavaScript, Python, Kotlin, Java, C#).
-
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewd02s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewd02s&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -50,6 +42,14 @@
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-phishing&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-phishing)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-ransomware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-ransomware)
+
+## Realizei Bootcamp DIO | SANTANDER CIBERSEGURANÇA: 🔒🛡🐧
+- Princípios de Desenvolvimento Ágil e Colaborativo;
+- Desafios de Códigos;
+- Fundamentos de Cibersegurança;
+- Deep Web e Anonimato; 
+- Testes de Invasão e Buscas por Vulenaribilidades;
+- Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
 
 ## Conecte-se comigo: 📲
 
