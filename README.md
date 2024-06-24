@@ -5,15 +5,13 @@
 ### Apaixonado por Tech.
 
 ## Sobre mim 🚀
-💼 No momento, atuo em serviços extraordinários.
+🎓Formado Técnico em Informática.
 
-🎓 Formado Técnico em Informática e Cibersegurança.
-
-💬 Gestão de serviços de atendimento ao cliente.
-
-😄 Gosto de soltar pipa, jogos e passeios!
+💼 No momento, atuo como garçom.
 
 🌱 Em transição de carreira para TI.
+
+😄 Gosto de soltar pipa, jogos e passeios!
 
 ## No Bootcamp DIO | SANTANDER CIBERSEGURANÇA: 🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
