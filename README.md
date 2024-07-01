@@ -1,13 +1,13 @@
-## Sobre mim 💬
-👋 Meu nome é Eder William, 
+## Sobre Mim 💬
+👋 Meu Nome é Eder William, 
 
-😄 Um jovem de +30 anos,
+😄 Um Jovem de +30 anos,
 
 ⚽ Corinthiano e Sofredor...
 
 💍 Namorando uma Princesa Plus!
 
-💼 No momento, atuo como garçom.
+💼 No Momento, atuo como Garçom.
 
 🎓 Formado Técnico em Informática.
 
@@ -15,9 +15,9 @@
 
 🖱 Desajustado nos Games.
 
-🪁 Gosto de soltar pipa e passeios!
+🪁 Gosto de Soltar Pipa e Passeios!
 
-🌱 Em transição de carreira para TI.
+🌱 Em Transição de Carreira para TI.
 
 ## Conhecimento em Linguagens de Programação: 👨🏾‍💻
 - CSharp, DotNet, MySQL, SQL, HTML, CSS, JavaScript, PHP, Java, Figma;
