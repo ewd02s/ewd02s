@@ -7,7 +7,7 @@
 
 💍 Namorando uma Princesa Plus!
 
-💼 No Momento, atuo como Garçom.
+💼 No momento, atuo como Garçom.
 
 🎓 Formado Técnico em Informática.
 
