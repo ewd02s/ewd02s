@@ -52,7 +52,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewd02s&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Bootcamps Realizados na DIO: 🎓💻👨‍💻
-### Santander Bootcamp Cibersegurança 🔒🛡🐧
+### Santander Bootcamp Cibersegurança ♨️🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
 - Desafios de Códigos: JavaScript, Python, Kotlin, Java, C#;
 - Fundamentos de Cibersegurança;
@@ -60,7 +60,7 @@
 - Testes de Invasão e Buscas por Vulenaribilidades;
 - Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
 
-### Santander 2024 - Fundamentos de IA para Devs 🤖👨‍💻
+### Santander 2024 - Fundamentos de IA para Devs ♨️🤖👨‍💻
 - Princípios de Desenvolvimento de Software Colaborativo;
 - Introdução a Engenheraria de Prompts com ChatGPT;
 - Transformando Prompts em Soluções Reais;
