@@ -7,7 +7,7 @@
 
 🪁Gosto de soltar pipa.
 
-🚌Fazer Viagens e passeios!
+🚍Fazer Viagens e passeios!
 
 💍Namorando uma Princesa Plus!
 
