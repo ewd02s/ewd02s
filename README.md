@@ -1,4 +1,4 @@
-## Sobre Mim: 💬
+## Sobre Mim 💬
 👋 Meu Nome é Eder William,
 
 😄Um Jovem de +30 anos.
@@ -21,7 +21,7 @@
 
 👨‍💻Quero ser Cybersecurity/Dev.
 
-## Principais Habilidades: ⚡
+## Principais Habilidades ⚡
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=OpenAI)](https://openai.com/chatgpt/)
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000?style=for-the-badge&logo=GenerativeAI)]()
 [![Inteligência Artificial (IA)](https://img.shields.io/badge/Inteligência%20Artificial-000?style=for-the-badge&logo=AI)]()
@@ -33,7 +33,7 @@
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/)
 
-## Linguagens que tive Contato: 👨🏾‍💻
+## Linguagens que tive Contato 👨🏾‍💻
 [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -47,11 +47,11 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 
-## GitHub Stats: 📊
+## GitHub Estatísticas 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewd02s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewd02s&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Bootcamps Realizados na DIO: 🧑‍💻👨‍💻👇
+## Bootcamps Realizados na DIO 🧑‍💻👨‍💻👇
 ### Santander Bootcamp Cibersegurança ♨️🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
 - Desafios de Códigos: JavaScript, Python, Kotlin, Java, C#;
@@ -68,13 +68,13 @@
 - A Teoria Por Trás das IAs;
 - Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades.
 
-## Meus Principais Desafios de Projeto DIO: 🧑‍💻🗂👨‍💻👇
+## Meus Principais Desafios de Projeto DIO 🧑‍💻🗂👨‍💻
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-phishing&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-phishing)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=cassiano-dio&repo=cibersecurity-desafio-ransomware&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/cassiano-dio/cibersecurity-desafio-ransomware)
 
-## Conecte-se Comigo: 📲
+## Conecte-se Comigo 📲
 
 <p>
     <img 
