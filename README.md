@@ -11,11 +11,13 @@
 
 💍Namorando uma Princesa Plus!
 
-🤵No momento, Sou Garçom Freelancer.
+🤵Sou Garçom Freelancer,
 
-🤓Geek Pro: Anime/Games/Movies/Tech.
+🛎️Hospitalidade e serviços.
 
 🎓Formado Técnico em Informática.
+
+🤓Geek Pro: Anime/Games/Movies/Tech.
 
 🌱Em Transição de Carreira para TI.
 
