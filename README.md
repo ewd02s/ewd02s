@@ -51,7 +51,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewd02s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewd02s&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Bootcamps Realizados na DIO 🧑‍💻👨‍💻👇
+## Bootcamps Realizados na DIO 🧑🏾‍💻👨‍💻👇
 ### Santander Bootcamp Cibersegurança ♨️🔒🛡🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
 - Desafios de Códigos: JavaScript, Python, Kotlin, Java, C#;
@@ -60,7 +60,7 @@
 - Testes de Invasão e Buscas por Vulenaribilidades;
 - Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
 
-### Santander 2024 - Fundamentos de IA para Devs ♨️🤖👨‍💻
+### Santander 2024 - Fundamentos de IA para Devs ♨️🧑🏾‍💻🤖
 - Princípios de Desenvolvimento de Software Colaborativo;
 - Introdução a Engenheraria de Prompts com ChatGPT;
 - Transformando Prompts em Soluções Reais;
@@ -68,7 +68,7 @@
 - A Teoria Por Trás das IAs;
 - Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades.
 
-## Meus Principais Desafios de Projeto DIO 🧑‍💻🗂
+## Meus Principais Desafios de Projeto DIO 🧑🏾‍💻🗂
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
 
