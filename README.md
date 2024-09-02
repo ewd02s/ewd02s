@@ -5,19 +5,17 @@
 
 ⚽Corinthiano e Sofredor...
 
-🪁Gosto de soltar pipa.
+🪁Gosto de soltar pipa,
 
 🚍Fazer Viagens e passeios!
 
+🤓Geek Pro: Anime/Games/Movies/Tech.
+
 💍Namorando uma Princesa Plus!
 
-🤵Sou Garçom Freelancer,
-
-🛎️Hospitalidade e serviços.
+🤵Sou Garçom Freelancer.
 
 🎓Formado Técnico em Informática.
-
-🤓Geek Pro: Anime/Games/Movies/Tech.
 
 🌱Em Transição de Carreira para TI.
 
