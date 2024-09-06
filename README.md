@@ -47,6 +47,48 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 
+## Categorias e Habilidades nas áreas de TI 👨🏾‍💻⚡
+
+### Software Engineer 🖥️👨🏾‍💻
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
+[![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
+[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
+[![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=DotNet)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
+
+### Web Dev 🌐👨🏾‍💻
+[![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
+
+### App Dev 📱👨🏾‍💻
+[![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
+[![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
+
+### Game Dev 🎮🕹️👾
+[![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
+
+### AIs, Machine Learning & Data Science 🤖🧠🦾💻📊📈👨🏾‍💻
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=OpenAI)](https://openai.com/chatgpt/) 
+[![Google Gemini](https://img.shields.io/badge/Google_Gemini-000?style=for-the-badge&logo=GoogleGemini)](https://gemini.google.com)
+[![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000?style=for-the-badge&logo=GenerativeAI)]()
+[![Inteligência Artificial (IA)](https://img.shields.io/badge/Inteligência%20Artificial-000?style=for-the-badge&logo=AI)]()
+[![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
+[![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL)](https://kotlinlang.org/) 
+[![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
+
+### Cyber Security 🔐🛡️👨🏾‍💻🌐
+[![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/) 
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
+[![Cibersegurança](https://img.shields.io/badge/Cibersegurança-000?style=for-the-badge&logo=cybersecurity)]()
+[![Soft Skills](https://img.shields.io/badge/Soft%20Skill-000?style=for-the-badge&logo=Soft%20Skill)]()
+
 ## GitHub Estatísticas 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewd02s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ewd02s&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
