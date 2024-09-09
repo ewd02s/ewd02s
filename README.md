@@ -79,8 +79,15 @@
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/) 
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
 [![Cibersegurança](https://img.shields.io/badge/Cibersegurança-000?style=for-the-badge&logo=cybersecurity)]()
+[![Pentest](https://img.shields.io/badge/Pentest-000?style=for-the-badge&logo=penetration_test)]()
 [![Social Engineering](https://img.shields.io/badge/Engenharia_Social-000?style=for-the-badge&logo=Social_Engineering)]()
 [![Soft Skills](https://img.shields.io/badge/Soft%20Skill-000?style=for-the-badge&logo=Soft%20Skill)]()
+### Desafios de Códigos 👨🏾‍💻
+[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
+[![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
+[![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
+[![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 ## GitHub Estatísticas 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewd02s&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
