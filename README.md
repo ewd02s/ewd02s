@@ -22,6 +22,10 @@
 👨‍💻Quero ser Cybersecurity/Dev.
 
 ## Habilidades nas áreas de TI 🤹🏾⚡👨🏾‍💻
+### GitHub e Deploy 🚀🛠️📦
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
+[![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
+[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 ### Software Engineer 🖥️👨🏾‍💻
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=DotNet)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -49,10 +53,6 @@
 [![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL)](https://kotlinlang.org/) 
 [![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
-### GitHub e Deploy 🚀🛠️📦
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
-[![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
-[![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 ### Cyber Security 🔐🛡️👨🏾‍💻
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/) 
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
