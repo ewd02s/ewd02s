@@ -9,11 +9,11 @@
 
 🎒Fazer viagens e passeios.
 
+🤓Geek Pro: Anime/Games/Movies/Tech.
+
 💍Namorando uma Princesa Plus!
 
 🤵Sou Garçom Freelancer.
-
-🤓Geek Pro: Anime/Games/Movies/Tech.
 
 🌱Em Transição de Carreira para TI.
 
