@@ -31,6 +31,8 @@
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-000?style=for-the-badge&logo=GoogleGemini)](https://gemini.google.com)
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000?style=for-the-badge&logo=GenerativeAI)]()
 [![Inteligência Artificial (IA)](https://img.shields.io/badge/Inteligência%20Artificial-000?style=for-the-badge&logo=AI)]()
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000?style=for-the-badge&logo=Engineering)]()
+
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 [![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL)](https://kotlinlang.org/) 
