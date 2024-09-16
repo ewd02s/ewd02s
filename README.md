@@ -15,9 +15,9 @@
 
 🤵Sou Garçom Freelancer.
 
-🌱Em Transição de Carreira para TI.
-
 🎓Formado Técnico em Informática.
+
+🌱Em Transição de Carreira para TI.
 
 👨‍💻Quero ser Cybersecurity/Dev.
 
