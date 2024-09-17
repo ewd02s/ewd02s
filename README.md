@@ -19,7 +19,7 @@
 
 🌱Em Transição de Carreira para TI.
 
-👨🏾‍💻Quero ser Cybersecurity/Dev.
+👨🏾‍💻Quero ser Cybersecurity/Developer.
 
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
 ### GitHub e Deploy 🚀🛠️📦
