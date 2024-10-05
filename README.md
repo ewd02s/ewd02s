@@ -9,15 +9,15 @@
 
 🎒Fazer viagens e passeios.
 
-🤓Geek Pro: Anime/Games/Movies/Tech.
-
 💍Namorando uma Princesa Plus!
+
+🤓Geek Pro: Anime/Games/Movies/Tech.
 
 🤵Sou Garçom Freelancer.
 
 🎓Formado Técnico em Informática.
 
-🌱Em Transição de Carreira para TI.
+🌱Em Transição de Carreira em TI.
 
 👨🏾‍💻Quero ser Cybersecurity/Developer.
 
