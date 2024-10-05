@@ -53,7 +53,7 @@
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 ### Software Engineer 🖥️👨🏾‍💻
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-[![.Net](https://img.shields.io/badge/.Net-000?style=for-the-badge&logo=DotNet)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![.Net](https://img.shields.io/badge/dotNet-000?style=for-the-badge&logo=DotNet)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
