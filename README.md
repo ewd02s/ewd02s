@@ -13,7 +13,7 @@
 
 🤓Geek Pro: Anime/Games/Movies/Tech.
 
-🤵Sou Garçom Freelancer.
+🤵Sou Garçom, Hospitalidade e serviços.
 
 🎓Formado Técnico em Informática.
 
