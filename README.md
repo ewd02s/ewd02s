@@ -79,7 +79,7 @@
 - Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
 ### Santander 2024 - Fundamentos de IA para Devs ♨️🧑🏾‍💻🤖
 - Princípios de Desenvolvimento de Software Colaborativo;
-- Introdução a Engenheraria de Prompts com ChatGPT;
+- Introdução a Engenharia de Prompts com ChatGPT;
 - Transformando Prompts em Soluções Reais;
 - Desvendando as IAs Presentes no Nosso Dia a Dia;
 - A Teoria Por Trás das IAs;
