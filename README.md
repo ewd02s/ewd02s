@@ -17,7 +17,7 @@
 
 🎓Formado Técnico em Informática.
 
-🌱Em Transição de Carreira em TI.
+🌱Em Transição de Carreira para TI.
 
 👨🏾‍💻Quero ser Cybersecurity/Developer.
 
