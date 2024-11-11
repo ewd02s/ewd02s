@@ -1,32 +1,32 @@
 ## Sobre Mim 💬
 👋 Meu Nome é Eder William,
 
-😄Um Jovem de +30 anos.
+😄 Um Jovem de +30 anos.
 
-⚽Corinthiano e Sofredor...
+⚽ Corinthiano e Sofredor...
 
-🪁Gosto de soltar pipa,
+🪁 Gosto de soltar pipa,
 
-🎒Fazer viagens e passeios.
+🎒 Fazer viagens e passeios.
 
-💍Namorando uma Princesa Plus!
+💍 Namorando uma Princesa Plus!
 
-🤓Geek Pro: Anime/Games/Movies/Tech.
+🤓 Geek: Anime/Games/Movies/Tech.
 
-🤵Sou Garçom, hospitalidade e serviços.
+🛎️ Sou Garçom, hospitalidade e serviços.
 
-🎓Formado Técnico em Informática.
+🎓 Formado Técnico em Informática.
 
-🌱Em Transição de Carreira para TI.
+🌱 Em Transição de Carreira para TI.
 
-👨🏾‍💻Quero ser Cybersecurity/Developer.
+👨🏾‍💻 Quero ser Cybersecurity/Developer.
 
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
-### GitHub e Deploy 🚀🛠️📦
+### Deploy with GitHub 🚀🛠️📦👨🏾‍💻
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
-[![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
-### AIs, Machine Learning & Data Science 🤖🧠🦾📊👨🏾‍💻
+[![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
+### AIs, Machine Learning & Data Science 🤖🦾📊👨🏾‍💻
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=OpenAI)](https://openai.com/chatgpt/) 
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-000?style=for-the-badge&logo=GoogleGemini)](https://gemini.google.com)
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000?style=for-the-badge&logo=GenerativeAI)]()
@@ -65,19 +65,19 @@
 ### App Dev 📱👨🏾‍💻
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
-### Game Dev 🎮🕹️👨🏾‍💻
+### Game Dev 👾👨🏾‍💻
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 
 ## Bootcamps Realizados na DIO 🧑🏾‍💻👨🏾‍💻👇
-### Santander Bootcamp Cibersegurança ♨️🔒🛡🐧
+### Santander Bootcamp Cibersegurança ♨️🔒🛡️🐧
 - Princípios de Desenvolvimento Ágil e Colaborativo;
 - Desafios de Códigos: JavaScript, Python, Kotlin, Java, C#;
 - Fundamentos de Cibersegurança;
 - Deep Web e Anonimato; 
 - Testes de Invasão e Buscas por Vulenaribilidades;
 - Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
-### Santander 2024 - Fundamentos de IA para Devs ♨️🧑🏾‍💻🤖
+### Santander 2024 - Fundamentos de IA para Devs ♨️🤖🧑🏾‍💻
 - Princípios de Desenvolvimento de Software Colaborativo;
 - Introdução a Engenharia de Prompts com ChatGPT;
 - Transformando Prompts em Soluções Reais;
