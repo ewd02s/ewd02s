@@ -19,7 +19,11 @@
 
 🌱 Em Transição de Carreira para TI.
 
-👨🏾‍💻 Quero ser Cybersecurity/Developer.
+🙋🏿‍♂️ Quero ser...
+
+🔐 Cibersegurança,
+
+👨🏾‍💻 Desenvolvedor.
 
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
 ### Deploy with GitHub 🚀🛠️📦👨🏾‍💻
