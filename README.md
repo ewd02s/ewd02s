@@ -11,9 +11,9 @@
 
 💍 Namorando uma Princesa Plus!
 
-🤓 Geek: Anime/Games/Movies/Tech.
-
 🛎️ Sou Garçom, hospitalidade e serviços.
+
+🤓 Geek: Anime/Games/Movies/Tech.
 
 🎓 Formado Técnico em Informática.
 
