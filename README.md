@@ -114,4 +114,4 @@ Eder William (Ewd02s)<br>
 
 ---
 
-👨🏾‍💻 com 💜 por [ewd02s (Eder William).](https://github.com/ewd02s)
+👨🏾‍💻 com 💜 por [Ewd02s (Eder William).](https://github.com/ewd02s)
