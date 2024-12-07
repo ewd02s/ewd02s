@@ -49,7 +49,7 @@
 [![Engenharia Social](https://img.shields.io/badge/Engenharia%20Social-000?style=for-the-badge&logo=SocialEngineering)]()
 [![Pentest](https://img.shields.io/badge/Pentest-000?style=for-the-badge&logo=penetration_test)]()
 [![Soft Skills](https://img.shields.io/badge/Soft%20Skill-000?style=for-the-badge&logo=Soft%20Skill)]()
-### Desafios de Códigos 👨🏾‍💻
+### Desafios de Códigos 🎯👨🏾‍💻
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
