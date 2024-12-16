@@ -55,7 +55,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-### Software Engineer 🖥️👨🏾‍💻
+### Software Dev 🖥️👨🏾‍💻
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![.Net](https://img.shields.io/badge/dotNet-000?style=for-the-badge&logo=DotNet)](https://learn.microsoft.com/en-us/dotnet/)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
