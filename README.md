@@ -17,13 +17,11 @@
 
 🎓 Formado Técnico em Informática.
 
-🌱 Em Transição de Carreira para TI.
-
-🙋🏿‍♂️ Quero ser...
+🌱 Em Transição de Carreira para TI;
 
 🔐 Cibersegurança,
 
-👨🏾‍💻 Desenvolvedor.
+👨🏾‍💻 Desenvolvimento.
 
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
 ### Deploy with GitHub 🚀🛠️📦👨🏾‍💻
