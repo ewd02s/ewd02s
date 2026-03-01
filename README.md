@@ -1,21 +1,21 @@
 ## Sobre Mim 💬
-👋 Meu Nome é Eder William,
+👋 Olá, Meu Nome é Eder William,
 
 😄 Um Jovem de +30 anos.
 
-⚽ Corinthiano e Sofredor...
+⚽ Corinthiano, maloqueiro e sofredor!
 
 🪁 Gosto de soltar pipa,
 
 🎒 Fazer viagens e passeios.
 
-💍 Namorando uma Princesa Plus!
+💔 Separado da Morena Plus!
 
 🛎️ Sou Garçom, hospitalidade e serviços.
 
 🤓 Geek: Anime/Games/Movies/Tech.
 
-🎓 Formado Técnico em Informática.
+🎓 Formação Técnico em Informática.
 
 🌱 Em Transição de Carreira para TI;
 
