@@ -1,9 +1,9 @@
 ## Sobre Mim 💬
 👋 Olá, Meu Nome é Eder William,
 
-😄 Um Jovem de +30 anos.
-
 ⚽ Corinthiano, maloqueiro e sofredor!
+
+😄 Um Jovem de +30 anos.
 
 🪁 Gosto de soltar pipa,
 
@@ -15,13 +15,9 @@
 
 🤓 Geek: Anime/Games/Movies/Tech.
 
-🎓 Formação Técnico em Informática.
+🎓 Formado Técnico em Informática.
 
-🌱 Em Transição de Carreira para TI;
-
-🔐 Cibersegurança,
-
-👨🏾‍💻 Desenvolvimento.
+🌱 Em Transição de Carreira para TI.
 
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
 ### Deploy with GitHub 🚀🛠️📦👨🏾‍💻
