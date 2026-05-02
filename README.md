@@ -7,11 +7,11 @@
 
 🪁 Gosto de soltar pipa,
 
-🎒 Fazer viagens e passeios.
-
-💁‍♂️ Atuo na área de atendimento.
+🎒 Fazer viagens e passeios,
 
 🤓 Geek: Animes/Games/Movies/Tech.
+
+💁‍♂️ Atuo na área de atendimento.
 
 🎓 Formado Técnico em Informática.
 
