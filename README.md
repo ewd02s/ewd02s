@@ -9,11 +9,9 @@
 
 🎒 Fazer viagens e passeios.
 
-💔 Separado da Morena Plus!
+💁‍♂️ Atuo na área de atendimento.
 
-🛎️ Sou Garçom, hospitalidade e serviços.
-
-🤓 Geek: Anime/Games/Movies/Tech.
+🤓 Geek: Animes/Games/Movies/Tech.
 
 🎓 Formado Técnico em Informática.
 
