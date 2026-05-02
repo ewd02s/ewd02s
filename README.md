@@ -1,9 +1,9 @@
 ## Sobre Mim 💬
-👋 Olá, Meu Nome é Eder William,
+👋 Olá, Meu Nome é Eder William.
+
+😄 Um Jovem de +30 anos,
 
 ⚽ Corinthiano, maloqueiro e sofredor!
-
-😄 Um Jovem de +30 anos.
 
 🪁 Gosto de soltar pipa,
 
