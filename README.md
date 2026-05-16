@@ -5,9 +5,9 @@
 
 ⚽ Corinthiano, maloqueiro e sofredor!
 
-🪁 Gosto de soltar pipa,
+🪁 Gosto de soltar pipa.
 
-🎒 Fazer viagens e passeios,
+🎒 Fazer passeios e viagens.
 
 🤓 Geek: Animes/Games/Movies/Tech.
 
@@ -15,7 +15,7 @@
 
 🎓 Formado Técnico em Informática.
 
-🌱 Em Transição de Carreira para TI.
+🌱 Em transição de carreira para TI.
 
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
 ### Deploy with GitHub 🚀🛠️📦👨🏾‍💻
