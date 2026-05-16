@@ -5,7 +5,7 @@
 
 ⚽ Corinthiano, maloqueiro e sofredor!
 
-🪁 Gosto de soltar pipa.
+🪁 Gosto de soltar pipa,
 
 🎒 Fazer passeios e viagens.
 
