@@ -9,7 +9,7 @@
 
 🎒 Fazer passeios e viagens.
 
-🤓 Geek: Animes/Games/Movies/Tech.
+🤓 Geek: Animes/Games/Movies/Séries/Tech.
 
 💁‍♂️ Atuo na área de atendimento.
 
