@@ -5,11 +5,11 @@
 
 ⚽ Corinthiano, maloqueiro e sofredor!
 
+🤓 Geek: Animes/Games/Movies/Séries/Tech.
+
 🪁 Gosto de soltar pipa,
 
 🎒 Fazer passeios e viagens.
-
-🤓 Geek: Animes/Games/Movies/Séries/Tech.
 
 💁‍♂️ Atuo na área de atendimento.
 
