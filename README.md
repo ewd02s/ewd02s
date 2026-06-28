@@ -6,10 +6,6 @@
 ⚽ Corinthiano, maloqueiro e sofredor!
 
 🤓 Geek: Animes/Games/Movies/Séries/Tech.
- 
-🪁 Gosto de soltar pipa,
-
-🎒 Fazer passeios e viagens.
 
 💁‍♂️ Atuo na área de atendimento.
 
@@ -18,6 +14,8 @@
 🌱 Em transição de carreira para TI & Tech.
 
 👨🏾‍💻 Aprendizado contínuo em GenAI, Dados & Cyber.
+
+⏳ Curto jogos, passeios e empinar pipa nas horas livres.
 
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
 ### Deploy with GitHub 🚀🛠️📦👨🏾‍💻
