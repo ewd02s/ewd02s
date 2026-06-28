@@ -48,13 +48,14 @@ Cyber Security 🔐🛡️👨🏾‍💻
 [![Pentest](https://img.shields.io/badge/Pentest-000?style=for-the-badge&logo=penetration_test)]()
 [![Soft Skills](https://img.shields.io/badge/Soft%20Skill-000?style=for-the-badge&logo=Soft%20Skill)]()
 
-Desafios de Códigos 🎯👨🏾‍💻
+Desafios 🎯👨🏾‍💻
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000?style=for-the-badge&logo=Engineering)]()
 
 Software Dev 🖥️👨🏾‍💻
 
