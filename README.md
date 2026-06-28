@@ -17,7 +17,7 @@
 
 ⏳ Curto jogos, passeios e empinar pipa nas horas livres.
 
-## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
+## Hard Skills | ⚙️🎯💪💡 | 👨🏾‍💻
 
 Deploy with GitHub 🚀🛠️📦👨🏾‍💻
 
@@ -82,7 +82,7 @@ Game Dev 👾👨🏾‍💻
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 
 ## Bootcamp DIO 🧑🏾‍💻👨🏾‍💻👇
-[![Riachuelo - Cibersegurança](https://img.shields.io/badge/Riachuelo%20-%20Cibersegurança%20✅-000?style=for-the-badge)](https://www.dio.me/certificate/JLN4ZHHY/share)
+[![Riachuelo - Cibersegurança](https://img.shields.io/badge/Riachuelo%20-%20Cibersegurança%20🔒🛡️🐧✅-000?style=for-the-badge)](https://www.dio.me/certificate/JLN4ZHHY/share)
 
 [![Santander - Linux para Iniciantes](https://img.shields.io/badge/Santander%20-%20Linux%20para%20Iniciantes%20♨️🛠️🐧🐳✅-000?style=for-the-badge)](https://www.dio.me/certificate/UXVEBPJW/share)
 
