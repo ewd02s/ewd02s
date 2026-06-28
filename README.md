@@ -20,11 +20,13 @@
 ## Habilidades e Linguagens que tive Contato ⚡👨🏾‍💻
 
 Deploy with GitHub 🚀🛠️📦👨🏾‍💻
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
 [![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=Markdown)](https://www.markdownguide.org/)
 [![Readme.so](https://img.shields.io/badge/Readme-000?style=for-the-badge&logo=Readme)](https://readme.so/pt)
 
 AIs, Machine Learning & Data Science 🤖🦾📊👨🏾‍💻
+
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=OpenAI)](https://openai.com/chatgpt/) 
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-000?style=for-the-badge&logo=GoogleGemini)](https://gemini.google.com)
 [![IA Generativa](https://img.shields.io/badge/IA%20Generativa-000?style=for-the-badge&logo=GenerativeAI)]()
@@ -38,6 +40,7 @@ AIs, Machine Learning & Data Science 🤖🦾📊👨🏾‍💻
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
 
 Cyber Security 🔐🛡️👨🏾‍💻
+
 [![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)](https://www.linux.org/) 
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
 [![Cibersegurança](https://img.shields.io/badge/Cibersegurança-000?style=for-the-badge&logo=cybersecurity)]()
@@ -46,6 +49,7 @@ Cyber Security 🔐🛡️👨🏾‍💻
 [![Soft Skills](https://img.shields.io/badge/Soft%20Skill-000?style=for-the-badge&logo=Soft%20Skill)]()
 
 Desafios de Códigos 🎯👨🏾‍💻
+
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/) 
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
@@ -53,6 +57,7 @@ Desafios de Códigos 🎯👨🏾‍💻
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 Software Dev 🖥️👨🏾‍💻
+
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![.Net](https://img.shields.io/badge/dotNet-000?style=for-the-badge&logo=DotNet)](https://learn.microsoft.com/en-us/dotnet/)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
@@ -60,16 +65,19 @@ Software Dev 🖥️👨🏾‍💻
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
 
 Web Dev 🌐👨🏾‍💻
+
 [![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)](https://www.python.org/)
 
 App Dev 📱👨🏾‍💻
+
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 [![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
 
 Game Dev 👾👨🏾‍💻
+
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 
