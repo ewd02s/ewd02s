@@ -66,13 +66,13 @@
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 
 ## Bootcamp DIO 🧑🏾‍💻👨🏾‍💻👇
-[![Riachuelo - Cibersegurança](https://img.shields.io/badge/Riachuelo%20-%20Cibersegurança-000?style=for-the-badge)](https://www.dio.me/certificate/JLN4ZHHY/share)
+[![Riachuelo - Cibersegurança](https://img.shields.io/badge/Riachuelo%20-%20Cibersegurança%20✅-000?style=for-the-badge)](https://www.dio.me/certificate/JLN4ZHHY/share)
 
-[![Santander - Linux para Iniciantes](https://img.shields.io/badge/Santander%20-%20Linux%20para%20Iniciantes%20♨️🛠️🐧🐳-000?style=for-the-badge)](https://www.dio.me/certificate/UXVEBPJW/share)
+[![Santander - Linux para Iniciantes](https://img.shields.io/badge/Santander%20-%20Linux%20para%20Iniciantes%20♨️🛠️🐧🐳✅-000?style=for-the-badge)](https://www.dio.me/certificate/UXVEBPJW/share)
 
-[![Santander 2024 - Fundamentos de IA para Devs](https://img.shields.io/badge/Santander%202024%20-%20Fundamentos%20de%20IA%20para%20Devs%20♨️🤖🧑🏾‍💻-000?style=for-the-badge)](https://www.dio.me/certificate/REECABIG/share)
+[![Santander 2024 - Fundamentos de IA para Devs](https://img.shields.io/badge/Santander%202024%20-%20Fundamentos%20de%20IA%20para%20Devs%20♨️🤖🧑🏾‍💻✅-000?style=for-the-badge)](https://www.dio.me/certificate/REECABIG/share)
 
-[![Santander Bootcamp Cibersegurança](https://img.shields.io/badge/Santander%20Bootcamp%20-%20Cibersegurança%20♨️🔒🛡️🐧-000?style=for-the-badge)](https://www.dio.me/certificate/EA14F576/share)
+[![Santander Bootcamp Cibersegurança](https://img.shields.io/badge/Santander%20Bootcamp%20-%20Cibersegurança%20♨️🔒🛡️🐧✅-000?style=for-the-badge)](https://www.dio.me/certificate/EA14F576/share)
 
 ### Meus Principais Desafios de Projeto DIO 🧑🏾‍💻🗂
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
