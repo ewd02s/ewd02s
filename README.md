@@ -1,7 +1,7 @@
 ## Sobre Mim 💬
 👋 Olá, Meu Nome é Eder William.
 
-😄 Um Jovem de +30 anos,
+😄 Um Jovem de +30 anos.
 
 ⚽ Corinthiano, maloqueiro e sofredor!
 
@@ -13,9 +13,9 @@
 
 💁‍♂️ Atuo na área de atendimento.
 
-🎓 Formado Técnico em Informática.
+🎓 Formado Técnico em Informática,
 
-🌱 Em transição de carreira para TI.
+🌱 Em transição de carreira para TI & Tech.
 
 👨🏾‍💻 Aprendizado contínuo em GenAI, Dados & Cyber.
 
@@ -67,25 +67,15 @@
 [![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/java-%23000?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/download/manual.jsp)
 
-## Bootcamps Realizados na DIO 🧑🏾‍💻👨🏾‍💻👇
-### Santander - Linux para Iniciantes ♨️🛠️🐧🐳
-- Introdução ao Git e GitHub;
-- Introdução a Linux e Scripts;
-- Servidores Linux e Docker.
-### Santander Bootcamp Cibersegurança ♨️🔒🛡️🐧
-- Princípios de Desenvolvimento Ágil e Colaborativo;
-- Desafios de Códigos: JavaScript, Python, Kotlin, Java, C#;
-- Fundamentos de Cibersegurança;
-- Deep Web e Anonimato; 
-- Testes de Invasão e Buscas por Vulenaribilidades;
-- Conceitos como Pentest, Phishing, Man in the Middle e Ransomware.
-### Santander 2024 - Fundamentos de IA para Devs ♨️🤖🧑🏾‍💻
-- Princípios de Desenvolvimento de Software Colaborativo;
-- Introdução a Engenharia de Prompts com ChatGPT;
-- Transformando Prompts em Soluções Reais;
-- Desvendando as IAs Presentes no Nosso Dia a Dia;
-- A Teoria Por Trás das IAs;
-- Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades.
+## FORMAÇÕES DIO 🧑🏾‍💻👨🏾‍💻👇
+[![Riachuelo - Cibersegurança](https://img.shields.io/badge/Riachuelo%20-%20Cibersegurança-000?style=for-the-badge)](https://www.dio.me/certificate/JLN4ZHHY/share)
+
+[![Santander - Linux para Iniciantes](https://img.shields.io/badge/Santander%20-%20Linux%20para%20Iniciantes%20♨️🛠️🐧🐳-000?style=for-the-badge)](https://www.dio.me/certificate/UXVEBPJW/share)
+
+[![Santander 2024 - Fundamentos de IA para Devs](https://img.shields.io/badge/Santander%202024%20-%20Fundamentos%20de%20IA%20para%20Devs%20♨️🤖🧑🏾‍💻-000?style=for-the-badge)](https://www.dio.me/certificate/REECABIG/share)
+
+[![Santander Bootcamp Cibersegurança](https://img.shields.io/badge/Santander%20Bootcamp%20-%20Cibersegurança%20♨️🔒🛡️🐧-000?style=for-the-badge)](https://www.dio.me/certificate/EA14F576/share)
+
 ### Meus Principais Desafios de Projeto DIO 🧑🏾‍💻🗂
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
