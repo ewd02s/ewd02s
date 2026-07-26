@@ -1,21 +1,11 @@
 ## Sobre Mim 💬
-👋 Olá, meu nome é Eder William.
-
-😄 Um jovem de +30 anos,
-
-⚽ Corinthiano, maloqueiro e sofredor!
-
-🤓 Geek: Animes/Games/Movies/Séries/Tech.
-
-💁‍♂️ Atuo na área de atendimento.
-
-🎓 Formado Técnico em Informática.
-
-🌱 Em transição de carreira para TI & Tech.
-
-👨🏾‍💻 Aprendizado contínuo em GenAI, Dados & Cyber.
+👋 Olá, meu nome é Eder William. Um jovem de +30 anos, corinthiano, maloqueiro e sofredor!
 
 ⏳ Curto jogos, passeios e empinar pipa nas horas livres.
+
+💁‍♂️ Atuo na área de atendimento. Formado Técnico em Informática com aprendizado contínuo em GenAI, Dados & Cyber e transição de carreira para TI.
+
+🤓 Geek: Animes/Games/Movies/Séries/Tech.
 
 ## Hard Skills | ⚙️🎯💪💡 | 👨🏾‍💻
 
