@@ -1,5 +1,5 @@
 ## Sobre Mim 💬🚀
-👋 Olá, meu nome é Eder William. 
+Olá, meu nome é Eder William. 👋
 
 Sou um jovem geek de +30 anos, corinthiano, maloqueiro e sofredor! 😅
 
