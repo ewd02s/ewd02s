@@ -1,7 +1,9 @@
 ## Sobre Mim 💬🚀
 Olá, meu nome é Eder William. 👋
 
-Sou um jovem geek de nível 30+. Corinthiano, maloqueiro e sofredor. 😅
+Sou um jovem geek de nível 30+. 😅
+
+Corinthiano, maloqueiro e sofredor. 🙏
 
 Atualmente atuo na área de atendimento, com vasta experiência. Sou Técnico em Informática, formado em junho de 2023 pelo Senac São Paulo, e estou em processo de transição de carreira para a área de Tecnologia da Informação. Tenho interesse e estou me desenvolvendo em aprendizado contínuo em GenAI, Dados & Cyber, para atuar como Assistente de TI. Além de Animes/Games/Movies/Séries/Tech, curto passeios e empinar pipa nas horas livres.
 
