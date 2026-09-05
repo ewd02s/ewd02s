@@ -14,7 +14,7 @@ Atualmente atuo na área de atendimento, com vasta experiência. Sou Técnico em
 
 [![Santander - Linux para Iniciantes](https://img.shields.io/badge/Santander%20-%20Linux%20para%20Iniciantes%20♨️🛠️🐧🐳✅-000?style=for-the-badge)](https://www.dio.me/certificate/UXVEBPJW/share)
 
-[![Santander Gamer Pro 3º Edição](https://img.shields.io/badge/Santander%20Gamer%20Pro%203º%20Edição%20-%20Streamer%20UP%20♨️🛡️🎮✅-000?style=for-the-badge)](https://cnb-academy.memberkit.com.br/certificates/boKe86)
+[![Santander Gamer Pro 3º Edição](https://img.shields.io/badge/Santander%20Gamer%20Pro%203º%20Edição%20-%20Streamer%20UP%20♨️🎮📹✅-000?style=for-the-badge)](https://cnb-academy.memberkit.com.br/certificates/boKe86)
 
 [![Santander Bootcamp Cibersegurança](https://img.shields.io/badge/Santander%20Bootcamp%20-%20Cibersegurança%20♨️🔒🛡️🐧✅-000?style=for-the-badge)](https://www.dio.me/certificate/EA14F576/share)
 
