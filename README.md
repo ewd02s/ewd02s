@@ -8,7 +8,7 @@ Corinthiano, maloqueiro e sofredor! 🙏
 Atualmente atuo na área de atendimento, com vasta experiência. Sou Técnico em Informática, formado em junho de 2023 pelo Senac São Paulo, e estou em processo de transição de carreira para a área de Tecnologia da Informação. Tenho interesse e estou me desenvolvendo em aprendizado contínuo em GenAI, Dados & Cyber, para atuar como Assistente de TI. Além de Animes/Games/Movies/Séries/Tech. Curto passeios, viagens e empinar pipa nas horas livres.
 
 ## Certificado de Bootcamp | 🧑🏾‍💻👨🏾‍💻 | 👇
-[![Kingston Maker — Montagem de PC Gamer](https://img.shields.io/badge/Kingston%20Maker%20-%20Montagem%20de%20PC%20Gamer%20⚙️✅-000?style=for-the-badge)](https://kingstonmaker.com.br/verificar/ac174fe5-aac7-4266-a50b-531b2be7b0d4)
+[![Kingston Maker — Montagem de PC Gamer](https://img.shields.io/badge/Kingston%20Maker%20-%20Montagem%20de%20PC%20Gamer%20⚙️📦🎮✅-000?style=for-the-badge)](https://kingstonmaker.com.br/verificar/ac174fe5-aac7-4266-a50b-531b2be7b0d4)
 
 [![Riachuelo - Cibersegurança](https://img.shields.io/badge/Riachuelo%20-%20Cibersegurança%20🔒🛡️🐧✅-000?style=for-the-badge)](https://www.dio.me/certificate/JLN4ZHHY/share)
 
