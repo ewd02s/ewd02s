@@ -10,7 +10,7 @@ Atualmente atuo na área de atendimento, com vasta experiência. Sou Técnico em
 ## Certificado de Bootcamp | 🧑🏾‍💻👨🏾‍💻 | 👇
 [![Bootcamp Bradesco - GenAI, Dados & Cyber](https://img.shields.io/badge/Bootcamp%20Bradesco%20-%20GenAI,%20Dados%20&%20Cyber%20🤖🎲🔒✅-000?style=for-the-badge)](https://www.dio.me/certificate/BDFAXOV4/share)
 
-[![Kingston Maker — Montagem de PC Gamer](https://img.shields.io/badge/Kingston%20Maker%20-%20Montagem%20de%20PC%20Gamer%20⚙️📦🎮✅-000?style=for-the-badge)](https://kingstonmaker.com.br/verificar/ac174fe5-aac7-4266-a50b-531b2be7b0d4)
+[![Kingston Maker — Montagem de PC Gamer](https://img.shields.io/badge/Kingston%20Maker%20-%20Montagem%20de%20PC%20Gamer%20🛠️🖥️🎮✅-000?style=for-the-badge)](https://kingstonmaker.com.br/verificar/ac174fe5-aac7-4266-a50b-531b2be7b0d4)
 
 [![Riachuelo - Cibersegurança](https://img.shields.io/badge/Riachuelo%20-%20Cibersegurança%20🔒🛡️🐧✅-000?style=for-the-badge)](https://www.dio.me/certificate/JLN4ZHHY/share)
 
