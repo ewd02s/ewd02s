@@ -1,11 +1,15 @@
-## Sobre Mim 💬🚀
+# Sobre Mim 💬🚀
 Olá, meu nome é Eder William. 👋
 
 Sou um jovem geek de nível 30+. 😅
 
 Corinthiano, maloqueiro e sofredor! 🙏
 
-Atualmente atuo na área de atendimento, com vasta experiência. Sou Técnico em Informática, formado em junho de 2023 pelo Senac São Paulo, e estou em processo de transição de carreira para a área de Tecnologia da Informação. Tenho interesse e estou me desenvolvendo em aprendizado contínuo em GenAI, Dados & Cyber, para atuar como Assistente de TI. Além de animes, games, movies, séries e tech. Curto passeios, viagens e empinar pipa nas horas livres.
+Atualmente, atuo na área de atendimento ao cliente, com ampla experiência profissional. Sou Técnico em Informática, formado pelo Senac São Paulo em junho de 2023, e estou em transição de carreira para a área de Tecnologia da Informação (TI).
+
+Busco desenvolver continuamente meus conhecimentos em Inteligência Artificial Generativa (GenAI), Dados e Cibersegurança, com o objetivo de iniciar minha trajetória profissional como Assistente de TI e ampliar minhas habilidades técnicas.
+
+Fora do ambiente profissional, sou apaixonado por tecnologia, animes, games, filmes e séries. Também gosto de passeios, viagens e de empinar pipa nas horas vagas.
 
 ## Certificado de Bootcamp | 🧑🏾‍💻👨🏾‍💻 | 👇
 [![Bootcamp Bradesco - GenAI, Dados & Cyber](https://img.shields.io/badge/Bootcamp%20Bradesco%20-%20GenAI,%20Dados%20&%20Cyber%20🤖🎲🔒✅-000?style=for-the-badge)](https://www.dio.me/certificate/BDFAXOV4/share)
